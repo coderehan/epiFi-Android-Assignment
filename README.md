@@ -2,11 +2,11 @@
 
 This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern along with Coroutines and Dependency Injection. 
 
-<b>About App:</b>
+<b>About App:</b> </br>
 This is a movie details app. </br>
 This app fetches the movie details from omdbAPI. This app has 2 fragments. </br>
 (1) Movie Fragment (Home Page) </br>
-(2) Details Fragment </br></br>
+(2) Details Fragment </br><
 
 In the Movie Fragment page, Wheh user search movie, app will be displaying movie in cards showing movie poster and title. On clicking of the movie items, it will take user to next page where it will display all movie information.
 
