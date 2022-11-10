@@ -14,6 +14,7 @@ and displayed to the user.
 API : Kindly use http://www.omdbapi.com to get the list of movies
 
 <b>About App:</b>
+
 This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern along with Coroutines and Dependency Injection. 
 
 <b>Libraries used:</b>
