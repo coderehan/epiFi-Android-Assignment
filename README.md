@@ -1,10 +1,14 @@
 <h3>epiFi Android Assignment: </h3>
 
 <b>Problem Statement:</b>
+
 Help us build a single-screen app.
+
 ● On launch, the screen will contain a vertical grid of movies cards populated through an API call.
+
 ● On scrolling to the last item, the next page of Movies will be appended to the list
 and displayed to the user.
+
 ● Can search by name
 
 This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern along with Coroutines and Dependency Injection. 
