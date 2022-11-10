@@ -15,7 +15,7 @@ This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern 
 10. Pagination 
 
 <b>UI Screenshots:</b>
-<img src="https://user-images.githubusercontent.com/75351694/201171405-44f62035-8c46-4249-a753-406a5b259eee.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/75351694/201171405-44f62035-8c46-4249-a753-406a5b259eee.jpg" width=30% height=30%>
 ![Screenshot_2022-11-10-23-20-38-49_d17c03f5f79942a6847a9f682fba80e1 1](https://user-images.githubusercontent.com/75351694/201171405-44f62035-8c46-4249-a753-406a5b259eee.jpg)
 ![Screenshot_2022-11-10-23-20-43-26_d17c03f5f79942a6847a9f682fba80e1 1](https://user-images.githubusercontent.com/75351694/201171657-f429a8fa-6bfc-4489-bcb6-8810acfbf321.jpg)
 ![Screenshot_2022-11-10-23-21-01-56_d17c03f5f79942a6847a9f682fba80e1 1](https://user-images.githubusercontent.com/75351694/201171782-be8f76bd-74dc-480a-aa97-c499555130b8.jpg)
